@@ -1,4 +1,6 @@
 # CRREM Pathway
+The CRREM plugin is a small tool for displaying the CREEM path based on a 3D building model. Currently, buildings in CityGML, gbXML, and IFC formats are supported. 
+If the georeference can be interpreted correctly, the available data is automatically retrieved from the [NaiS database](). 
 
 
 ## Dependencies
@@ -21,6 +23,7 @@
 	date         = {2025}
 }
 ```
+
 
 
 
