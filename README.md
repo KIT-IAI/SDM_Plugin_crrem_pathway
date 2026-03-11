@@ -2,7 +2,7 @@
 The CRREM plugin is a small tool for displaying the CREEM pathway based on a 3D building model. 
 A short English description for Carbon Risk Real Estate Monitor (CRREM):
 
-(CRREM (Carbon Risk Real Estate Monitor)](https://crrem.org/) provides science-based decarbonization pathways for the real estate sector. It helps investors and asset managers assess carbon emissions, identify transition risks, and align buildings and portfolios with the goals of the Paris Climate Agreement.”  ￼
+[CRREM (Carbon Risk Real Estate Monitor)](https://crrem.org/) provides science-based decarbonization pathways for the real estate sector. It helps investors and asset managers assess carbon emissions, identify transition risks, and align buildings and portfolios with the goals of the Paris Climate Agreement.”  ￼
 
 
 Currently, buildings in CityGML, gbXML, and IFC formats are supported. 
@@ -29,6 +29,7 @@ If the georeference can be interpreted correctly, the available data is automati
 	date         = {2025}
 }
 ```
+
 
 
 
