@@ -8,6 +8,8 @@
 |Package Name         |Install Command                            |
 |:---                 |:---                                       |
 |wxwidgets            |vcpkg install wxwidgets triplet=x64-windows|
+|curl                 |vcpkg install curl triplet=x64-windows     |
+|sqlite3              |vcpkg install sqlite3 triplet=x64-windows  |
 
 ## How to cite
 
@@ -19,6 +21,7 @@
 	date         = {2025}
 }
 ```
+
 
 
 
