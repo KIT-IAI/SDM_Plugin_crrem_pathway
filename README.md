@@ -3,7 +3,7 @@
 
 The CRREM plugin can be used to display the CRREM paths provided via the NaiS database. The parameters required for this are derived from 3D building models.
 
-Support3 formats are:
+Supported data models are:
 * CityGML (Energy ADE)
 * gbXML
 * IFC
@@ -31,6 +31,7 @@ If the georeference can be interpreted correctly, the available data is automati
 	date         = {2025}
 }
 ```
+
 
 
 
