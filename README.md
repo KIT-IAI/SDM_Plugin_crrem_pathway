@@ -4,9 +4,9 @@
 The CRREM plugin for [KITModelViewer]() can be used to display the CRREM pathways provided via the [NaiS database](). Where possible, the necessary parameters are derived from 3D building models.
 
 Supported data models are:
-* CityGML (Energy ADE)
-* gbXML
-* IFC
+* CityGML / CityGML Energy ADE - Geography Markup Language
+* gbXML - Green Building XML
+* IFC - Industry Foundation Classes
 
 If the georeference can be interpreted correctly, the available data is automatically retrieved from the NaiS database. 
 
@@ -31,6 +31,7 @@ If the georeference can be interpreted correctly, the available data is automati
 	date         = {2025}
 }
 ```
+
 
 
 
