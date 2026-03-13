@@ -28,7 +28,7 @@ If the georeference can be interpreted correctly, the available data is automati
 	title        = {SDM_Plugin_crrem_pathway},
 	author       = {Andreas Geiger},
 	url          = {https://github.com/KIT-IAI/SDM_Plugin_crrem_pathway},
-	date         = {2025}
+	date         = {2026}
 }
 ```
 
