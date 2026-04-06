@@ -9,7 +9,7 @@ Supported data models are:
 * IFC - Industry Foundation Classes
   
 > [!NOTE]
-> This plugin was developed as a functional test for the NaiS database and is not intended as a substitute for professional tools. It cannot perform a cost-benefit analysis, nor is it designed to generate a results report.
+> This plugin was developed as a functional test for the NaiS database and is not intended as a substitute for professional tools. It cannot perform a economic assessment, nor is it designed to generate a results report.
 
 ## Dependencies
 
