@@ -1,15 +1,15 @@
 # CRREM Pathway
 [CRREM (Carbon Risk Real Estate Monitor)](https://crrem.org/) provides science-based decarbonization pathways for the real estate sector. It enables the assessment of CO2 emissions from buildings and their adjustment to the targets of the Paris Climate Agreement.
 
-The CRREM plugin for [KITModelViewer](https://github.com/KIT-IAI/SDM_KITModelViewer) displays the CRREM pathways provided via the [NaiS database](https://github.com/KIT-IAI/SDM_NaiS-DB). Based on existing georeferences, the available data is retrieved from the NaiS database and displayed in a dialogue. Where possible, the required parameters are derived from the data in the 3D building model. Missing values can be added, and existing values can be overwritten.
+The CRREM plugin for [KITModelViewer](https://github.com/KIT-IAI/SDM_KITModelViewer) displays the CRREM pathways provided via the [NaiS database](https://github.com/KIT-IAI/SDM_NaiS-DB). If the required values and a valid georeference of a building are available, the corresponding CREMM path is automatically retrieved from the NaiS database and displayed in a simple chart. Missing values can be added manually and existing values overwritten if necessary.
 
 Supported data models are:
 * CityGML / CityGML Energy ADE - Geography Markup Language
 * gbXML - Green Building XML
 * IFC - Industry Foundation Classes
-
-If the georeference can be interpreted correctly, the available data is automatically retrieved from the NaiS database. 
-
+  
+> [!NOTE]
+> This plugin was developed as a functional test for the NaiS database and is not intended as a substitute for professional tools. It cannot perform a cost-benefit analysis, nor is it designed to generate a results report.
 
 ## Dependencies
 
