@@ -8,7 +8,7 @@ Supported data models are:
 * gbXML - Green Building XML
 * IFC - Industry Foundation Classes
   
-> [!NOTE]
+> [!IMPORTANT]
 > This plugin was developed as a functional test for the NaiS database and is not intended as a substitute for professional tools. It cannot perform a economic assessment, nor is it designed to generate a results report.
 
 ## Dependencies
