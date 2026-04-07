@@ -11,6 +11,9 @@ Supported data models are:
 > [!IMPORTANT]
 > This plugin was developed as a functional test for the NaiS database and is not intended as a substitute for professional tools. It cannot perform a economic assessment, nor is it designed to generate a report.
 
+## User Interface
+The user interface is based on [wxWidgets](https://www.wxwidgets.org/) and was made with [wxFormBuilder](https://github.com/wxFormBuilder/wxFormBuilder).
+
 ## Dependencies
 
 ### Use of vcpkg:
