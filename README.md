@@ -7,7 +7,9 @@ Supported data models are:
 * CityGML / CityGML Energy ADE - Geography Markup Language
 * gbXML - Green Building XML
 * IFC - Industry Foundation Classes
-  
+
+  <img width="1592" height="847" alt="grafik" src="https://github.com/user-attachments/assets/aeafcb4e-fcd6-4318-b141-68326438e113" />
+
 > [!IMPORTANT]
 > This plugin was developed as a functional test for the NaiS database and is not intended as a substitute for professional tools. It cannot perform a economic assessment, nor is it designed to generate a report.
 
