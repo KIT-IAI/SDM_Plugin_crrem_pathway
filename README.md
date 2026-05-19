@@ -33,10 +33,10 @@ The user interface is based on [wxWidgets](https://www.wxwidgets.org/) and was m
 
 ```bibtex
 @software{SDM_Plugin_crrem_pathway,
-	title        = {SDM_Plugin_crrem_pathway},
+	title        = {{SDM\_Plugin\_crrem_pathway}},
 	author       = {Andreas Geiger},
 	url          = {https://github.com/KIT-IAI/SDM_Plugin_crrem_pathway},
-	date         = {2026}
+	year         = {2026}
 }
 ```
 
