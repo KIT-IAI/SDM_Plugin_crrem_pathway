@@ -27,7 +27,8 @@ The user interface is based on [wxWidgets](https://www.wxwidgets.org/) and was m
 |wxwidgets            |vcpkg install wxwidgets triplet=x64-windows|
 |curl                 |vcpkg install curl triplet=x64-windows     |
 |sqlite3              |vcpkg install sqlite3 triplet=x64-windows  |
-|geographiclib        |vcpkg install geographiclib triplet=x64-windows  |
+|fmt                  |vcpkg install fmt triplet=x64-windows      |
+|geographiclib 	      |vcpkg install geographiclib triplet=x64-windows|
 
 ## How to cite
 
